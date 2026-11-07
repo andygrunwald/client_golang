@@ -9,7 +9,7 @@ require (
 	github.com/oklog/run v1.1.0
 	github.com/prometheus/client_golang v1.22.0
 	github.com/prometheus/common v0.64.0
-	go.yaml.in/yaml/v2 v2.4.4
+	go.yaml.in/yaml/v4 v4.0.0
 )
 
 require (

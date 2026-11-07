@@ -31,7 +31,7 @@ import (
 	sdconfig "github.com/efficientgo/e2e/monitoring/promconfig/discovery/config"
 	"github.com/efficientgo/e2e/monitoring/promconfig/discovery/targetgroup"
 	"github.com/prometheus/common/model"
-	"go.yaml.in/yaml/v2"
+	"go.yaml.in/yaml/v4"
 )
 
 func TestPlayground(t *testing.T) {
